@@ -4,10 +4,10 @@ Use
 - React.js, Typescript
 
 Interested in
-- Dashboard
+- Web Application
+- SaaS business
 - Game
 - Education with gamification
-- SaaS business
 - Metabus
 - Rust(programming language) for web assembly
 
