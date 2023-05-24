@@ -2,6 +2,7 @@ Korean beginner frontend developer.
 
 Use
 - React.js, Typescript
+- ant design
 
 Interested in
 - Web Application
@@ -10,7 +11,3 @@ Interested in
 - Education with gamification
 - Metabus
 - Rust(programming language) for web assembly
-
-Like
-- Game(tower defence genre, factory genre, minecraft, ...)
-- Question answering
